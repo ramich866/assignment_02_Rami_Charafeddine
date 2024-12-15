@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramich866.ramich866" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramich866&label=visitors&color=32b40e&style=flat" alt="ramich866" /> </p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?
