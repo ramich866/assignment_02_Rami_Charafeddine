@@ -45,6 +45,8 @@
 <br/>
 <hr/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramich866&show_icons=true&locale=en&layout=compact" alt="ramich866" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramich866&show_icons=true&locale=en" alt="ramich866" /></p>
 
 
